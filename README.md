@@ -10,22 +10,25 @@ The README file was updated accordingly to reflect that change.
 
 ### Project Title
 ### Replace the Project Title
-Bikeshare pattern project 
+Bikeshare Pattern Project 
 
 ### Description
 ### Describe what your project is about and what it does
 In the current state the project can be used to statistically analyze bikeshare 
 patterns from a database of rent of bikes.
 This database may include the date (year, month, day, hour/minute/second), 
-location (city, stations, ...), identity (i.e. age,  gender, ...).
+location (city, stations, ...), identity (i.e. age or birth year, 
+gender, ...).
+
 
 ### Files used
 ### Include the files used
 The statistics are calculated using a python code stored in "bikeshare.py".
 
+
 ### Credits
 ### It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-The all work is the results of Nanodegree class by Udacity.
+The all project is the result of Nanodegree class proposed by Udacity.
 The baseline project was forked from Udacity's GitHub account: 
 https://github.com/udacity/pdsnd_github
 
