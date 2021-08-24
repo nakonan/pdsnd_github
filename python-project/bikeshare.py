@@ -49,7 +49,7 @@ def get_filters():
     else:
         print('Restricted to {}s only'.format(day))
     
-    print('-'*40)
+    print('-'*42)
     return city, month, day
 
 
@@ -173,7 +173,7 @@ def station_stats(df):
 
     
     print("\nThis took %s seconds." % (time.time() - start_time))
-    print('-'*40)
+    print('-'*42)
 
 
 def trip_duration_stats(df):
@@ -201,7 +201,7 @@ def trip_duration_stats(df):
     print('The mean travel time is: {} day(s), {} hour(s), {} minute(s) and {} second(s); or {} seconds.'.format(days, hours, minutes, secs, mean_travel_time))
 
     print("\nThis took %s seconds." % (time.time() - start_time))
-    print('-'*40)
+    print('-'*42)
 
 
 def time_conversion(total_time):
@@ -254,7 +254,7 @@ def user_stats(df):
     
     
     print("\nThis took %s seconds." % (time.time() - start_time))
-    print('-'*40)
+    print('-'*42)
 
 
 def display_data(df):
