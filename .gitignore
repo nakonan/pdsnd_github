@@ -1,7 +1,2 @@
 .github/**
-<<<<<<< HEAD
 python-project/*.csv
-||||||| 06513a5
-=======
-python-project/*.csv
->>>>>>> documentation
