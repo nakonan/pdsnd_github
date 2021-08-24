@@ -17,7 +17,7 @@ Bikeshare Pattern Project
 In the current state the project can be used to statistically analyze bikeshare 
 patterns from a database of rent of bikes.
 This database may include the date (year, month, day, hour/minute/second), 
-location (city, stations, ...), identity (i.e. age or birth year, 
+location (city, start and end stations, ...), identity (i.e. age or birth year, 
 gender, ...).
 
 
